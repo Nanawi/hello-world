@@ -1,2 +1,2 @@
 # hello-world
-For training in github use.
+For training in Github use.
